@@ -12,18 +12,18 @@ function Portfolio() {
 
     return (
         <>
-            <h2 style={{color: "grey", fontFamily: "monospace"}}>PORTFOLIO</h2>
+            <h2 style={{color: "darkblue"}}>PORTFOLIO</h2>
             <hr />
 
-            <div class="row">
+            <div class="row" style={{ marginLeft: 30 }}>
 
                 {codeProject.map (item => (
                     <div class="column">
                         <div class="content">
-                            <img src="./assets/Portfolio/PW_Generator.png" alt="Password Generator" style={{width: "100%"}} />
-                            <h3><a href="https://jiji-smith.github.io/3_Password_Generator/" target="_blank">"Password Generator"</a></h3>
+                            <img src={item.image} alt={item.name} style={{ width : "50%"}} />
+                <h3><a href={item.location} target="_blank">{item.name}</a></h3>
                             <p>{item.description} </p>
-                            <a href="https://github.com/jiji-smith/3_Password_Generator" target="_blank" class="fa fa-github"></a>
+                            <a href={item.location} target="_blank" class="fa fa-github"></a>
                         </div>
                     </div>
                 )

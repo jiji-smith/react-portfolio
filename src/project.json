@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "name": "SpongeBob",
-        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "description": "Fry Cook",
-        "location": "A Pineapple Under the Sea"
+        "name": "Password Generator",
+        "image": "./assets/Portfolio/PW_Generator.png",
+        "description": "This passwaord generator generate a password with criteria that user chose. The length of password is at least 8 characters and no more than 128 characters. The user can choose lowercase, uppercase, numeric and/or special characters.",
+        "location": "https://jiji-smith.github.io/3_Password_Generator"
     },
     {
         "id": 2,
-        "name": "Mr. Krabs",
+        "name": "JavaScript Quiz",
         "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-        "description": "Restaurant Owner",
-        "location": "A Giant Anchor"
+        "description": "Test what you have learned! There are 5 questions and your time limit is 60 seconds.",
+        "location": "https://jiji-smith.github.io/4_Web-APIs-Code-Quiz/"
     },
     {
         "id": 3,
-        "name": "Squidward",
+        "name": "Workday Scheduler",
         "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "description": "Cashier",
-        "location": "An Easter Island Head"
+        "description": "You can add/edit to-do list hourly from 0900 to 1700. Even after refresing your page, it will store the list.It will show the past, present, future in different colors.",
+        "location": "https://github.com/jiji-smith/5_Work-Day-Scheduler"
     },
     {
         "id": 4,
-        "name": "Dexter",
+        "name": "Weather Forecast",
         "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-        "description": "Boy Genius",
-        "location": "A Secret Laboratory"
+        "description": "Pick the city and check the weather!!",
+        "location": "https://github.com/jiji-smith/6_Weather-Dashboard"
     },
     {
         "id": 5,
-        "name": "Courage",
+        "name": "Hike the Trail",
         "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-        "description": "A Cowardly Dog",
-        "location": "Nowhere, Kansas"
+        "description": "Wanted to hike the trails of Austin, but weren't sure where to start? Needed some help figuring out if there are easier trails to begin your fitness journey? Hike the Trails ATX (HTTATX) was created with a user like you in mind! This website dynamically generates up to 20 Austin trails in a list for you to click through. If needed, a user can select criteria to limit the trails, either based on length of the trail or on the difficutly of the trail. Once a trail is clicked on, the webpage dynamically updates with the a picture of the trail, trail information, and the location on Google Maps.",
+        "location": "https://cldominy.github.io/project-1/"
     },
     {
         "id": 6,

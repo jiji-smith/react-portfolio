@@ -1,4 +1,6 @@
-import React from "react";
+import React, { useEffect, useRef, useState } from "react";
+import Card from "../components/Card";
+import project from "../project.json"
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
@@ -10,7 +12,7 @@ function About() {
            <Container style={{ marginTop: 30 }}>
                 <Row>
                     <Col size="md-12">
-                        <h1>Welcome To Pupster!</h1>
+                        <h1>JiSmith's Portfolio</h1>
                     </Col>
                 </Row>
                 <Row>
@@ -56,5 +58,7 @@ function About() {
         </div>
     );
 }
+
+// I wanna put all the contents in this one page
 
 export default About;
