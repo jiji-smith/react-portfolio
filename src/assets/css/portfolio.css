@@ -1,0 +1,13 @@
+
+#portfolio {
+    background: #1C161F url("/img/portfolio-bg.jpg") repeat scroll 0 0;
+}
+
+.portfolio-caption {
+    height: 100px;
+    overflow: scroll;
+}
+
+.portfolio-link img {
+    max-height: 400px;
+}
