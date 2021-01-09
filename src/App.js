@@ -80,7 +80,7 @@ function App() {
             <i className="fa fa-lock fa-stack-1x fa-inverse"></i>
           </span>
           <h4 className="service-heading">Software Developer</h4>
-          <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+          <p className="text-muted">MERN Stack, interested in Frontend Developer</p>
         </div>
       </div>
     </div>
@@ -95,7 +95,7 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">About</h2>
-          <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h3 className="section-subheading text-muted">Steady Learner</h3>
         </div>
       </div>
       <div className="row">
@@ -107,11 +107,11 @@ function App() {
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
-                  <h4>2009-2011</h4>
-                  <h4 className="subheading">Our Humble Beginnings</h4>
+                  <h4>2020-2021</h4>
+                  <h4 className="subheading">New City Austin, First Career, Fall into the charm of coding </h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p className="text-muted">Start my first career at Samsung and learn coding from UT Austin BootCamp course</p>
                 </div>
               </div>
             </li>
@@ -121,11 +121,11 @@ function App() {
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
-                  <h4>March 2011</h4>
-                  <h4 className="subheading">An Agency is Born</h4>
+                  <h4>2018-2019</h4>
+                  <h4 className="subheading">MBA degree</h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p className="text-muted">Studied Business and emphasis on Analytics</p>
                 </div>
               </div>
             </li>
@@ -135,11 +135,11 @@ function App() {
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
-                  <h4>December 2012</h4>
-                  <h4 className="subheading">Transition to Full Service</h4>
+                  <h4>2009-2017</h4>
+                  <h4 className="subheading">Experience the World</h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p className="text-muted">Study, work, and live overseas. Travel the world. Bachelor degree in Economics.</p>
                 </div>
               </div>
             </li>
@@ -149,19 +149,19 @@ function App() {
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
-                  <h4>July 2014</h4>
-                  <h4 className="subheading">Phase Two Expansion</h4>
+                  <h4>February 1991</h4>
+                  <h4 className="subheading">Born in Korea</h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p className="text-muted">Jihyun Jung (정지현)</p>
                 </div>
               </div>
             </li>
             <li className="timeline-inverted">
               <div className="timeline-image">
-                <h4>Be Part
-                  <br/>Of Our
-                  <br/>Story!</h4>
+                <h4>Who
+                  <br/>is
+                  <br/>Ji?</h4>
               </div>
             </li>
           </ul>
@@ -215,8 +215,8 @@ function App() {
     <div className="container">
       <div className="row">
         <div className="col-lg-12 text-center">
-          <h2 className="section-heading text-uppercase">Contact Us</h2>
-          <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h2 className="section-heading text-uppercase">Contact Me</h2>
+          <h3 className="section-subheading text-muted">Please leave your name, email, phone, and message.</h3>
         </div>
       </div>
       <div className="row">
@@ -260,7 +260,7 @@ function App() {
     <div className="container">
       <div className="row align-items-center">
         <div className="col-md-4">
-          <span className="copyright">Copyright &copy; Your Website 2019</span>
+          <span className="copyright">Copyright &copy; Ji's Website 2020</span>
         </div>
         <div className="col-md-4">
           <ul className="list-inline social-buttons">
