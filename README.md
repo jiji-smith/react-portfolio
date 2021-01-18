@@ -1,6 +1,8 @@
 ![Language](https://img.shields.io/github/languages/top/jiji-smith/react-portfolio)
-## Title
-React Portfolio
+## React Portfolio
+[Github](https://github.com/jiji-smith/react-portfolio),
+[Heroku](https://jiji-smith.github.io/react-portfolio)
+
 ## Description
 This is a portfolio with React
 ## Table of Contents
@@ -15,7 +17,9 @@ This is a portfolio with React
 * [Questions](#questions)
 
 ## Installation
-Please check https://github.com/jiji-smith/react-portfolio
+Please check the links!
+[Github](https://github.com/jiji-smith/react-portfolio),
+[Heroku](https://jiji-smith.github.io/react-portfolio)
 ## Usage
 Check the code, install npm, answer the questions!
 ## License
