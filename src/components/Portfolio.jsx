@@ -24,7 +24,7 @@ export default ({ portfolioLinks }) => {
                                     <i className="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img className="img-fluid" src={image} alt="portfolio_img" />
+                            <img className="img-fluid" src={process.env.PUBLIC_URL + image} alt="portfolio_img" />
                         </a>
                         <div className="portfolio-caption">
                             <h4>{ name }</h4>

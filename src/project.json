@@ -2,84 +2,84 @@
     {
         "id": 1,
         "name": "Password Generator",
-        "image": "./img/passwordGenerator.jpg",
+        "image": "/img/passwordGenerator.jpg",
         "description": "This passwaord generator generate a password with criteria that user chose. The length of password is at least 8 characters and no more than 128 characters. The user can choose lowercase, uppercase, numeric and/or special characters.",
         "location": "https://jiji-smith.github.io/3_Password_Generator"
     },
     {
         "id": 2,
         "name": "JavaScript Quiz",
-        "image": "./img/jsquiz.jpg",
+        "image": "/img/jsquiz.jpg",
         "description": "Test what you have learned! There are 5 questions and your time limit is 60 seconds.",
         "location": "https://jiji-smith.github.io/4_Web-APIs-Code-Quiz/"
     },
     {
         "id": 3,
         "name": "Workday Scheduler",
-        "image": "./img/scheduler.jpg",
+        "image": "/img/scheduler.jpg",
         "description": "You can add/edit to-do list hourly from 0900 to 1700. Even after refresing your page, it will store the list.It will show the past, present, future in different colors.",
         "location": "https://jiji-smith.github.io/5_Work-Day-Scheduler/"
     },
     {
         "id": 4,
         "name": "Weather Forecast",
-        "image": "./img/weather.jpg",
+        "image": "/img/weather.jpg",
         "description": "Pick the city and check the weather!!",
         "location": "https://jiji-smith.github.io/6_Weather-Dashboard"
     },
     {
         "id": 5,
         "name": "Hike the Trail",
-        "image": "./img/hikethetrail.jpg",
+        "image": "/img/hikethetrail.jpg",
         "description": "This website dynamically generates up to 20 Austin trails in a list for you to click through. If needed, a user can select criteria to limit the trails, either based on length of the trail or on the difficutly of the trail. Once a trail is clicked on, the webpage dynamically updates with the a picture of the trail, trail information, and the location on Google Maps.",
         "location": "https://cldominy.github.io/project-1/"
     },
     {
         "id": 6,
         "name": "Employee Summary",
-        "image": "./img/employeeSummary.jpg",
+        "image": "/img/employeeSummary.jpg",
         "description": "The dependencies are, jest for running the provided tests, and inquirer for collecting input from the user. Please check https://github.com/jiji-smith/Employee-Summary.git",
         "location": "https://drive.google.com/file/d/1itoDwa3b0dXwy8K-sNOa62VZrqt7Q9R7/preview"
     },
     {
         "id": 7,
         "name": "Note Taker",
-        "image": "./img/noteTaker.jpg",
+        "image": "/img/noteTaker.jpg",
         "description": "You can add and delete your note through localhost with express.",
         "location": "https://github.com/jiji-smith/Note_Taker/blob/master/Note_Taker.mov"
     },
     {
         "id": 8,
         "name": "Employee Tracker",
-        "image": "./img/tracker.jpg",
+        "image": "/img/tracker.jpg",
         "description": "You can track employees information, using SQL",
         "location": "https://www.youtube.com/watch?v=t04bJVhZMJg&feature=youtu.be"
     },
     {
         "id": 9,
         "name": "Eat Da Burger!",
-        "image": "./img/burger.jpg",
+        "image": "/img/burger.jpg",
         "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.",
         "location": "https://immense-coast-29487.herokuapp.com"
     },
     {
         "id": 10,
         "name": "Fitness Tracker",
-        "image": "./img/workout.jpg",
+        "image": "/img/workout.jpg",
         "description": "A consumer will reach their fitness goals more quickly when they track their workout progress.",
         "location": "https://fitnesstracker-0219.herokuapp.com/?id=5fc450e634eafc0017f2bb83"
     },
     {
         "id": 11,
         "name": "User Directory",
-        "image": "./img/user.jpg",
+        "image": "/img/user.jpg",
         "description": "you can clone the code and play in your localhost! you can find users by searching their first name",
         "location": "https://www.youtube.com/watch?v=Fa3D0Rb3eos&feature=youtu.be"
     },
     {
         "id": 12,
         "name": "Book Club",
-        "image": "./img/bookreviews.jpg",
+        "image": "/img/bookreviews.jpg",
         "description": "A website that allows users to search for their favorite or least favorite books, leave reviews, and rate other reviews.",
         "location": "https://enigmatic-hamlet-33609.herokuapp.com/members"
     }
