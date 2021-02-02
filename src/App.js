@@ -4,6 +4,8 @@ import portfolioLinks from './project.json'
 import Portfolio from './components/Portfolio'
 import './App.css';
 
+
+
 function App() {
 
   return (
@@ -176,7 +178,7 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">Skills</h2>
-          <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h3 className="skills">HTML5 | CSS | Javascript | jQuery | Bootstrap4 | Materialize | AJAX | Python | MySQL | MongoDB | Express | React.js | Node.js | SAP | WordPress | Cello | MS Access</h3>
         </div>
       </div>
     </div>
@@ -216,15 +218,15 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">Contact Me</h2>
-          <h3 className="section-subheading text-muted">Please leave your name, email, phone, and message.</h3>
+          <h3 className="section-subheading text-muted"><a href="mailto: jihyunjung0219@gmail.com">jihyunjung0219@gmail.com</a> | <a href="https://www.github.com/jiji-smith" target="blank">https://www.github.com/jiji-smith</a></h3>
         </div>
       </div>
       <div className="row">
         <div className="col-lg-12">
           <form id="contactForm" name="sentMessage" novalidate="novalidate">
             <div className="row">
-              <div className="col-md-6">
-                <div className="form-group">
+              {/* <div className="col-md-6"> */}
+                {/* <div className="form-group">
                   <input className="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name."/>
                   <p className="help-block text-danger"></p>
                 </div>
@@ -233,7 +235,7 @@ function App() {
                   <p className="help-block text-danger"></p>
                 </div>
                 <div className="form-group">
-                  <input className="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number."/>
+                  <input className="form-control" id="phone" type="tel" placeholder="Your Phone " data-validation-required-message="Please enter your phone number."/>
                   <p className="help-block text-danger"></p>
                 </div>
               </div>
@@ -242,11 +244,11 @@ function App() {
                   <textarea className="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
                   <p className="help-block text-danger"></p>
                 </div>
-              </div>
+              </div> */}
               <div className="clearfix"></div>
               <div className="col-lg-12 text-center">
                 <div id="success"></div>
-                <button id="sendMessageButton" className="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                  <a className="btn btn-primary btn-xl text-uppercase" href="../src/assets/img/resume.pdf" target="_blank">Download Resume</a>
               </div>
             </div>
           </form>
