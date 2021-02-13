@@ -1,7 +1,7 @@
 ![Language](https://img.shields.io/github/languages/top/jiji-smith/react-portfolio)
 ## React Portfolio
 [Github](https://github.com/jiji-smith/react-portfolio),
-[Heroku](https://jiji-smith.github.io/react-portfolio)
+[Link](https://jiji-smith.github.io/react-portfolio)
 
 ## Description
 This is a portfolio with React
