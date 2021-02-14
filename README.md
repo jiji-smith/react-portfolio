@@ -19,7 +19,7 @@ This is a portfolio with React
 ## Installation
 Please check the links!
 [Github](https://github.com/jiji-smith/react-portfolio),
-[Heroku](https://jiji-smith.github.io/react-portfolio)
+[Published](https://jiji-smith.github.io/react-portfolio)
 ## Usage
 Check the code, install npm, answer the questions!
 ## License
