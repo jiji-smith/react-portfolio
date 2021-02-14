@@ -248,7 +248,7 @@ function App() {
               <div className="clearfix"></div>
               <div className="col-lg-12 text-center">
                 <div id="success"></div>
-                  <a className="btn btn-primary btn-xl text-uppercase" href="../src/assets/img/resume.pdf" target="_blank">Download Resume</a>
+                  <a className="btn btn-primary btn-xl text-uppercase" href="./assets/img/resume.pdf" target="_blank">Download Resume</a>
               </div>
             </div>
           </form>
