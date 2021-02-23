@@ -35,3 +35,7 @@
       transform: rotate(360deg);
     }
   }
+
+  h3 {
+    color: #282c34;
+  }
