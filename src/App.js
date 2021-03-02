@@ -57,7 +57,7 @@ function App() {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Ji Smith</h2>
-              <h3 className="section-subheading text-muted">Software Engineer leveraging a background in logistics and data analytics. Exceptional interpersonal communication abilities with demonstrated history of working in the information technology and services industry. Proven team collaborator recognized for developing innovative solutions and user-centric experiences.</h3>
+              <h3 className="section-subheading text-danger">Software Engineer leveraging a background in logistics and data analytics. Exceptional interpersonal communication abilities with demonstrated history of working in the information technology and services industry. Proven team collaborator recognized for developing innovative solutions and user-centric experiences.</h3>
             </div>
           </div>
           <div className="row text-center">
@@ -67,7 +67,7 @@ function App() {
                 <i className="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
               </span>
               <h4 className="service-heading">UT Austin Coding Bootcamp</h4>
-              <p className="text-muted">Fullstack software engineer course; July 2020 - January 2021</p>
+              <p className="text-success">Fullstack software engineer course; July 2020 - January 2021</p>
             </div>
             <div className="col-md-6">
               <span className="fa-stack fa-4x">
@@ -75,7 +75,7 @@ function App() {
                 <i className="fa fa-laptop fa-stack-1x fa-inverse"></i>
               </span>
               <h4 className="service-heading">University of West Florida</h4>
-              <p className="text-muted">Master of Business Administration, Business Analytics emphasis</p>
+              <p className="text-info">Master of Business Administration, Business Analytics emphasis</p>
             </div>
           </div>
         </div>
@@ -90,7 +90,7 @@ function App() {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">About</h2>
-              <h3 className="section-subheading text-muted">Steady Learner</h3>
+              <h3 className="section-subheading text-warning">Steady Learner</h3>
             </div>
           </div>
           <div className="row">
@@ -106,7 +106,7 @@ function App() {
                       <h4 className="subheading">New City Austin, First Career, Fall into the charm of coding </h4>
                     </div>
                     <div className="timeline-body">
-                      <p className="text-muted">Start my first career at Samsung and learn coding from UT Austin BootCamp course</p>
+                      <p className="text-warning">Start my first career at Samsung and learn coding from UT Austin BootCamp course</p>
                     </div>
                   </div>
                 </li>
@@ -120,7 +120,7 @@ function App() {
                       <h4 className="subheading">MBA degree</h4>
                     </div>
                     <div className="timeline-body">
-                      <p className="text-muted">Studied Business and emphasis on Analytics</p>
+                      <p className="text-warning">Studied Business and emphasis on Analytics</p>
                     </div>
                   </div>
                 </li>
@@ -134,7 +134,7 @@ function App() {
                       <h4 className="subheading">Experience the World</h4>
                     </div>
                     <div className="timeline-body">
-                      <p className="text-muted">Study, work, and live overseas. Travel the world. Bachelor degree in Economics.</p>
+                      <p className="text-warning">Study, work, and live overseas. Travel the world. Bachelor degree in Economics.</p>
                     </div>
                   </div>
                 </li>
@@ -145,10 +145,10 @@ function App() {
                   <div className="timeline-panel">
                     <div className="timeline-heading">
                       <h4>February 1991</h4>
-                      <h4 className="subheading">Born in Korea</h4>
+                      <h4 className="subheading" color="red">Born in Korea</h4>
                     </div>
                     <div className="timeline-body">
-                      <p className="text-muted">Jihyun Jung (정지현)</p>
+                      <p className="text-warning">Jihyun Jung (정지현)</p>
                     </div>
                   </div>
                 </li>
@@ -211,7 +211,7 @@ function App() {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Contact Me</h2>
-              <h3 className="section-subheading text-muted"><a href="mailto: jihyunjung0219@gmail.com">jihyunjung0219@gmail.com</a> | <a href="https://www.github.com/jiji-smith" target="blank">https://www.github.com/jiji-smith</a></h3>
+              <h3 className="section-subheading text-warning"><a href="mailto: jihyunjung0219@gmail.com">jihyunjung0219@gmail.com</a> | <a href="https://www.github.com/jiji-smith" target="blank">https://www.github.com/jiji-smith</a></h3>
             </div>
           </div>
           <div className="row">

@@ -11,7 +11,7 @@ export default ({ portfolioLinks }) => {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Portfolio</h2>
-              <h3 className="section-subheading text-muted">Please check "github.com/jiji-smith"</h3>
+              <h3 className="section-subheading text-warning">Please check "github.com/jiji-smith"</h3>
             </div>
           </div>
           <div className="row">
@@ -28,7 +28,7 @@ export default ({ portfolioLinks }) => {
                         </a>
                         <div className="portfolio-caption">
                             <h4>{ name }</h4>
-                            <p className="text-muted">{ description }</p>
+                            <p className="text-warning">{ description }</p>
                         </div>
                     </div>
                 )
