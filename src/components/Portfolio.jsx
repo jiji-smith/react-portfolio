@@ -16,7 +16,7 @@ export default ({ portfolioLinks }) => {
           </div>
           <div className="row">
             {
-                portfolioLinks && portfolioLinks.map(({ id, name, image, description, location }, index) =>
+                portfolioLinks && portfolioLinks.map(({ id, name, image, description, location, githublink }, index) =>
                     <div className="col-md-4 col-sm-6 portfolio-item">
                         <a className="portfolio-link" data-toggle="modal" href={location}>
                             <div className="portfolio-hover">
@@ -27,7 +27,7 @@ export default ({ portfolioLinks }) => {
                             <img className="img-fluid" src={process.env.PUBLIC_URL + image} alt="portfolio_img" />
                         </a>
                         <div className="portfolio-caption">
-                            <h4>{ name }</h4>
+                            <h4><a href={githublink}>{ name }</a></h4>
                             <p className="text-warning">{ description }</p>
                         </div>
                     </div>
