@@ -11,7 +11,7 @@ export default ({ portfolioLinks }) => {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Portfolio</h2>
-              <h3 className="section-subheading text-warning">Please check "github.com/jiji-smith"</h3>
+              <h3 className="section-subheading text-warning">Please check <a href = "https://github.com/jiji-smith" target="_blank">"github.com/jiji-smith"</a> </h3>
             </div>
           </div>
           <div className="row">
