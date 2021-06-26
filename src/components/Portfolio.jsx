@@ -10,8 +10,8 @@ export default ({ portfolioLinks }) => {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <h2 className="section-heading text-uppercase">Portfolio</h2>
-              <h3 className="section-subheading text-warning">Please check <a href = "https://github.com/jiji-smith" target="_blank">"github.com/jiji-smith"</a> </h3>
+              <h2 className="section-heading text-uppercase"> <a href = "https://github.com/jiji-smith" target="_blank">Portfolio</a></h2>
+              <h3 className="section-subheading text-warning">"Click the image to try the app! or you can see the code by clicking the title"</h3>
             </div>
           </div>
           <div className="row">
